@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{392:function(n,e,t){"use strict";t.r(e);t(23);var o={created:function(){}},c=t(50),component=Object(c.a)(o,(function(){var n=this,e=n._self._c;return e("div",[n._v("\n  "+n._s(n.$route.name)),e("b-icon",{attrs:{icon:"envelope"}})],1)}),[],!1,null,"85869848",null);e.default=component.exports}}]);

@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fagmoffice\u002F_nuxt\u002Fstatic\u002F1681284319",layout:"default",error:a,state:a,serverRendered:false,routePath:"\u002Fdashboard",config:{_app:{basePath:"\u002Fagmoffice\u002F",assetsPath:"\u002Fagmoffice\u002F_nuxt\u002F",cdnURL:a}}}}(null));
